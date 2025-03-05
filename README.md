@@ -14,3 +14,6 @@ A high-performance **MongoDB Exporter** built in Go to efficiently export **100M
    ```sh
    git clone https://github.com/bytive/mongo-bulk-exporter.git
    cd mongo-bulk-exporter
+2. Run the program
+   ```sh
+   go run main.go
